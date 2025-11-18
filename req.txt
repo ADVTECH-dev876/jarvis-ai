@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+speechrecognition
+pyaudio
+openai
+requests
+python-dateutil
+pydantic
+python-dotenv
+websockets
